@@ -9,4 +9,4 @@ stkeditz/stkeditz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://telegram.com/LOVE_FEELINGS_WILL
+https://tele.me/LOVE_FEELINGS_WILL
