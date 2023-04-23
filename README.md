@@ -37,7 +37,7 @@ Here is list of my all bots
 <a href="https://t.me/LOVE_FEELINGS_WILL"><img src="https://img.shields.io/badge/Join-Group%20Support-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stkeditz&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=stkeditz&theme=red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stkeditz&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stkeditz&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
