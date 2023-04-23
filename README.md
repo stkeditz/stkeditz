@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 https://t.me/LOVE_FEELINGS_WILL1
 
+<p align="center">
+  <img src="https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg">
+</p>
+
 # ❣️ About Me:
 - ❣️ Hi, I’m @stkeditz<br>- 👀 I’m interested in Hacking...<br>- 🌱 I’m currently learning Python ...<br>- 💞️ I’m looking to collaborate on Heroku...<br>- 📫 How to reach me @Honey_Singh_121 on telegram..
 
