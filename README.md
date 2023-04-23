@@ -11,7 +11,7 @@ https://t.me/LOVE_FEELINGS_WILL1
 </p>
 
 # ❣️ About Me:
-- ❣️ Hi, I’m @stkeditz<br>- 👀 I’m interested in Hacking...<br>- 🌱 I’m currently learning Python ...<br>- 💞️ I’m looking to collaborate on Heroku...<br>- 📫 How to reach me @Honey_Singh_121 on telegram..
+<br>- ❣️ ʜɪ, ɪ'ᴍ sᴀɢᴀʀ ᴛɪᴡᴀʀɪ<br>- ❣️ ɪ ʟɪᴋᴇ ʜᴀᴄᴋɪɴɢ<br>- ❣️ ɪ'ᴍ sᴛɪʟʟ ɪɴ ʟɪᴠᴇ ᴡɪᴛʜ ʏᴏᴜ<br>- ❣️ ᴀᴀʀᴏʜɪ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ<br>- ❣️ ғɪʀsᴛ ɴ ʟᴀsᴛ ʟᴏᴠᴇ ᴀᴀʀᴏʜɪ
 
 
 ## 🌐 Socials:
