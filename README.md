@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 # ❣️ About Me:
 <br>- ❣️ ʜɪ, ɪ'ᴍ sᴀɢᴀʀ ᴛɪᴡᴀʀɪ<br>- ❣️ ɪ ʟɪᴋᴇ ʜᴀᴄᴋɪɴɢ<br>- ❣️ ɪ'ᴍ sᴛɪʟʟ ɪɴ ʟɪᴠᴇ ᴡɪᴛʜ ʏᴏᴜ<br>- ❣️ ᴀᴀʀᴏʜɪ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ<br>- ❣️ ғɪʀsᴛ ɴ ʟᴀsᴛ ʟᴏᴠᴇ ᴀᴀʀᴏʜɪ
 
+[![AROHIxDIL](https://github-stats-alpha.vercel.app/api?username=stkeditz "stkeditz")](https://github-stats-alpha.vercel.app/api?username=stkeditz "stkeditz")
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sagartiwari_stk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://m.youtube.com/channel/UCQ_TY7pO5eWLq5nSWU63svg) 
