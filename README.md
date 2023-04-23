@@ -36,10 +36,6 @@ Here is list of my all bots
 
 <a href="https://t.me/LOVE_FEELINGS_WILL"><img src="https://img.shields.io/badge/Join-Group%20Support-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 
-## 🖥 &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stkeditz&repo=AarohiXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/stkeditz/AarohiXMusic) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stkeditz&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stkeditz&theme=city_light&hide_border=false)<br/>
@@ -48,6 +44,11 @@ Here is list of my all bots
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stkeditz&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+## 🖥 &nbsp;Past work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stkeditz&repo=AarohiXMusic&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/stkeditz/AarohiXMusic) 
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
