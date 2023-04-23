@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 # ❣️ About Me:
 <br>- ❣️ ʜɪ, ɪ'ᴍ sᴀɢᴀʀ ᴛɪᴡᴀʀɪ<br>- ❣️ ɪ ʟɪᴋᴇ ʜᴀᴄᴋɪɴɢ<br>- ❣️ ɪ'ᴍ sᴛɪʟʟ ɪɴ ʟɪᴠᴇ ᴡɪᴛʜ ʏᴏᴜ<br>- ❣️ ᴀᴀʀᴏʜɪ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ<br>- ❣️ ғɪʀsᴛ ɴ ʟᴀsᴛ ʟᴏᴠᴇ ᴀᴀʀᴏʜɪ
 
+## 📊 &nbsp;Status
+
 [![AROHIxDIL](https://github-stats-alpha.vercel.app/api?username=stkeditz "stkeditz")](https://github-stats-alpha.vercel.app/api?username=stkeditz "stkeditz")
 
 
