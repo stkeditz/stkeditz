@@ -28,6 +28,13 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stkeditz&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stkeditz&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 &nbsp;My Bots
+  
+Here is list of my all bots
+  <!-- Talking about disclaimer -->
+  
+<a href="https://t.me/Alone_Dil_bot"><img src="https://img.shields.io/badge/Try-AAROHI%20MUSIC-darkred.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Alone_dil_121_bot"><img src="https://img.shields.io/badge/Try-AAROHI%20MANAGEMENT-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stkeditz&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
