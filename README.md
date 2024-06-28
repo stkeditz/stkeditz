@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶⟶ https://t.me/LOVE_FEELINGS_WILL1
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg">
+  <img src="https://telegra.ph/file/abc96d1ec9d101df8f988.jpg">
 </p>
 
 # ❣️ About Me:
